@@ -8,11 +8,7 @@ CanvasAI is a simple and fun computer vision project that allows you to draw in 
 - **Color Palette:** Choose from a variety of colors, including blue, green, red, and yellow.
 - **Clear Canvas:** Easily wipe the canvas clean.
 
-## Demo Output
 
-<p align="center">
-<img src="frame-and-canvas.jpg" />
-</p>
 
 
 ## Implementation Details:
