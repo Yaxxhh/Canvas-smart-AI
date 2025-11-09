@@ -1,7 +1,7 @@
-# CanvasAI: Drawing with Hand Gestures 🌈✋
+# Canvas Smart AI: Drawing with Hand Gestures 🌈✋
 ---
 ## Overview
-CanvasAI is a simple and fun computer vision project that allows you to draw in the air using hand gestures. Built with OpenCV and machine learning using Mediapipe, this project detects and tracks hand landmarks to create an interactive canvas.
+Canvas smart AI is a simple and fun computer vision project that allows you to draw in the air using hand gestures. Built with OpenCV and machine learning using Mediapipe, this project detects and tracks hand landmarks to create an interactive canvas.
 
 ## Features
 - **Gesture-Based Drawing:** Express your creativity by waving your hand in the air to draw.
